@@ -1,0 +1,55 @@
+[
+ {
+  "_source": {
+   "layers": {
+    "frame": {
+     "frame.number": "1",
+     "frame.time_epoch": "1700000000"
+    },
+    "nas-5gs": {
+     "nas-5gs.mm.message_type": "0x41"
+    }
+   }
+  }
+ },
+ {
+  "_source": {
+   "layers": {
+    "frame": {
+     "frame.number": "2",
+     "frame.time_epoch": "1700000000.1"
+    },
+    "nas-5gs": {
+     "nas-5gs.mm.message_type": "0x56"
+    }
+   }
+  }
+ },
+ {
+  "_source": {
+   "layers": {
+    "frame": {
+     "frame.number": "3",
+     "frame.time_epoch": "1700000000.2"
+    },
+    "nas-5gs": {
+     "nas-5gs.mm.message_type": "0x57"
+    }
+   }
+  }
+ },
+ {
+  "_source": {
+   "layers": {
+    "frame": {
+     "frame.number": "4",
+     "frame.time_epoch": "1700000000.3"
+    },
+    "nas-5gs": {
+     "nas-5gs.mm.message_type": "0x44",
+     "nas-5gs.mm.5gmm_cause": "0x03"
+    }
+   }
+  }
+ }
+]
